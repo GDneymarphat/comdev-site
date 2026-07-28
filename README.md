@@ -61,3 +61,4 @@ During development, it may be useful to run an incremental build. For this to wo
 `hugo server -D -d /tmp/comdev-generated-site` to continuously (re)generate and serve the website on `localhost:1313`
 (-D means include draft pages). In another terminal, execute `npx -y pagefind --site /tmp/comdev-generated-site` to
 index the site content for Pagefind (the search bar on the website).
+Control + Shift + m
